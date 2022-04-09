@@ -3,6 +3,7 @@
 	"displayName": "Go Getters and Setters Generator",
 	"description": "Getters and Setters generator for Go stucts",
 	"version": "1.0.0",
+	"publisher": "trythrow",
 	"engines": {
 		"vscode": "^1.66.0"
 	},
