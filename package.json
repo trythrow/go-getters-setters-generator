@@ -13,6 +13,11 @@
 	"activationEvents": [
         "onCommand:ggsg.generateGettersAndSetters"
 	],
+	"repository": 
+    {
+        "type": "git",
+        "url": "https://github.com/trythrow/go-getters-setters-generator"    
+    },
 	"main": "./dist/extension.js",
 	"contributes": {
 		"commands": [
